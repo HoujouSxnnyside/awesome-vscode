@@ -86,6 +86,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [GitHub Repositories](#github-repositories)
   - [GitHub Pull Request Monitor](#github-pull-request-monitor)
 - [Productivity](#productivity)
+  - [Animoria](#animoria)
   - [ARM Template Viewer](#arm-template-viewer)
   - [Azure Cosmos DB](#azure-cosmos-db)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
@@ -628,6 +629,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![GitHub Pull Request Monitor](https://raw.githubusercontent.com/erichbehrens/pull-request-monitor/master/images/statusBarItems.png)
 
 # Productivity
+
+## [Animoria](https://marketplace.visualstudio.com/items?itemName=SxnnysideProject.animoria-vscode)
+
+> Finds unreferenced and duplicate visual assets in your workspace and traces where they are used.
+
+![Animoria](https://raw.githubusercontent.com/sxnnyside-project/animoria/v2.4.0/docs/screenshots/cleanup-review.png)
 
 ## [ARM Template Viewer](https://marketplace.visualstudio.com/items?itemName=bencoleman.armview)
 
